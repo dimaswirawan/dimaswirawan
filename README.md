@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dimaswirawan
-- 👀 I’m interested in Javascript, PHP anda Wordpress Programming
+- 👀 I’m interested in Javascript, PHP and Wordpress Programming
 - 🌱 I’m currently learning good Frelancer
 - 📫 Whatsapp +62 898-6350-551
 
